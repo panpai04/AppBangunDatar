@@ -1,1 +1,0 @@
-console.log("Ini Rumus Jajar Genjang sepertinya")
